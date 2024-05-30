@@ -96,7 +96,7 @@ If restarting and re-pairing the clicker don’t fix the problem, the Windows De
 
 To recover the clicker:
 
-1. Download and install the [Windows Device Recovery Tool](https://dev.azure.com/ContentIdea/ContentIdea/_queries/query/8a004dbe-73f8-4a32-94bc-368fc2f2a895/) on your computer.
+1. Download and install the [Windows Device Recovery Tool](https://go.microsoft.com/fwlink/p/?LinkId=522381) on your computer.
 1. Connect the clicker to your computer by using the Micro USB cable that came with your HoloLens.
 1. Run the Windows Device Recovery Tool and follow the instructions.
 
